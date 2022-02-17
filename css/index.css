@@ -1,0 +1,28 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+color: white;
+}
+
+h2{
+    color: brown;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+.description{
+    font-size: 25px;
+    font-weight: bold;
+    color: rgba(255, 217, 0, 0.672);
+}
+
+
+
+.image-fluid{
+   max-width:100%;
+   height: auto;
+   display:block;
+  margin-bottom: 15px;
+     opacity: 0.9;
+}
